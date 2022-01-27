@@ -1,1 +1,30 @@
-{"aloneOrInAGroup": {"11": "Online", "10": "Group", "9": "Alone"}, "Alone_categoryOfActivity": {"11": "Focus", "10": "Leisure"}, "Group_categoryOfActivity": {"11": "Collaborate", "10": "Learn", "9": "Socialize"}, "Group_PossiblyDistractingOthers": {"11": "No", "10": "Yes"}, "Online_categoryOfActivity": {"11": "Collaborate", "10": "Learn", "9": "Socialize"}, "DistractionsNearby": {"11": "A little", "10": "A lot", "9": "None"}, "NeedMorePrivacy": {"11": "No", "10": "Yes"}, "ALittle_WhatKindOfDistraction": {"11": "Audio", "10": "Others", "9": "Visual"}, "ALot_WhatKindOfDistraction": {"11": "Audio", "10": "Others", "9": "Visual"}, "WhatIsIt": {"11": "Thermal", "10": "Glare", "9": "Scent"}, "whyMorePrivacyNeeded": {"11": "See me", "10": "Both", "9": "Hear me"}, "WhatPeopleSee": {"11": "Work", "10": "Behavior", "9": "Appearance"}}
+{
+  "aloneOrInAGroup": { "11": "Online", "10": "Group", "9": "Alone" },
+  "Alone_categoryOfActivity": { "11": "Focus", "10": "Leisure" },
+  "Group_categoryOfActivity": {
+    "11": "Collaborate",
+    "10": "Learn",
+    "9": "Socialize"
+  },
+  "Group_PossiblyDistractingOthers": { "11": "No1", "10": "Yes1" },
+  "Online_categoryOfActivity": {
+    "11": "Collaborate",
+    "10": "Learn",
+    "9": "Socialize"
+  },
+  "DistractionsNearby": { "11": "A little", "10": "A lot", "9": "None" },
+  "NeedMorePrivacy": { "11": "No2", "10": "Yes2" },
+  "ALittle_WhatKindOfDistraction": {
+    "11": "Audio",
+    "10": "Others1",
+    "9": "Visual"
+  },
+  "ALot_WhatKindOfDistraction": {
+    "11": "Audio",
+    "10": "Others1",
+    "9": "Visual"
+  },
+  "WhatIsIt": { "11": "Thermal", "10": "Glare", "9": "Scent" },
+  "whyMorePrivacyNeeded": { "11": "See me", "10": "Both", "9": "Hear me" },
+  "WhatPeopleSee": { "11": "Work", "10": "Behavior", "9": "Appearance" }
+}

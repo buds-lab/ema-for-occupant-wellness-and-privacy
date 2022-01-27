@@ -12,20 +12,10 @@ privacy = [
             "10": {
                 "next": "Group_categoryOfActivity",
             },
-            "9": {
-                "next": "Alone_categoryOfActivity"
-            }
+            "9": {"next": "Alone_categoryOfActivity"},
         },
-        "iconText": [
-            "Online",
-            "Group",
-            "Alone"
-        ],
-        "iconColors": [
-            "fb-peach",
-            "fb-peach",
-            "fb-peach"
-        ],
+        "iconText": ["Online", "Group", "Alone"],
+        "iconColors": ["fb-peach", "fb-peach", "fb-peach"],
         "iconImages": [
             "images/icons/privacy/online.png",
             "images/icons/privacy/group.png",
@@ -44,16 +34,10 @@ privacy = [
             },
             "10": {
                 "next": "DistractionsNearby",
-            }
+            },
         },
-        "iconText": [
-            "Focus",
-            "Leisure"
-        ],
-        "iconColors": [
-            "fb-peach",
-            "fb-peach"
-        ],
+        "iconText": ["Focus", "Leisure"],
+        "iconColors": ["fb-peach", "fb-peach"],
         "iconImages": [
             "images/icons/privacy/focus.png",
             "images/icons/privacy/leisure.png",
@@ -72,20 +56,10 @@ privacy = [
             "10": {
                 "next": "Group_PossiblyDistractingOthers",
             },
-            "9": {
-                "next": "Group_PossiblyDistractingOthers"
-            }
+            "9": {"next": "Group_PossiblyDistractingOthers"},
         },
-        "iconText": [
-            "Collaborate",
-            "Learn",
-            "Socialize"
-        ],
-        "iconColors": [
-            "fb-peach",
-            "fb-peach",
-            "fb-peach"
-        ],
+        "iconText": ["Collaborate", "Learn", "Socialize"],
+        "iconColors": ["fb-peach", "fb-peach", "fb-peach"],
         "iconImages": [
             "images/icons/privacy/collaborate.png",
             "images/icons/privacy/learn.png",
@@ -104,16 +78,10 @@ privacy = [
             },
             "10": {
                 "next": "DistractionsNearby",
-            }
+            },
         },
-        "iconText": [
-            "No",
-            "Yes"
-        ],
-        "iconColors": [
-            "fb-peach",
-            "fb-peach"
-        ],
+        "iconText": ["No1", "Yes1"],
+        "iconColors": ["fb-peach", "fb-peach"],
         "iconImages": [
             "images/icons/privacy/no.png",
             "images/icons/privacy/yes.png",
@@ -132,20 +100,10 @@ privacy = [
             "10": {
                 "next": "DistractionsNearby",
             },
-            "9": {
-                "next": "DistractionsNearby"
-            }
+            "9": {"next": "DistractionsNearby"},
         },
-        "iconText": [
-            "Collaborate",
-            "Learn",
-            "Socialize"
-        ],
-        "iconColors": [
-            "fb-peach",
-            "fb-peach",
-            "fb-peach"
-        ],
+        "iconText": ["Collaborate", "Learn", "Socialize"],
+        "iconColors": ["fb-peach", "fb-peach", "fb-peach"],
         "iconImages": [
             "images/icons/privacy/collaborate.png",
             "images/icons/privacy/learn.png",
@@ -165,20 +123,10 @@ privacy = [
             "10": {
                 "next": "ALot_WhatKindOfDistraction",
             },
-            "9": {
-                "next": "NeedMorePrivacy"
-            }
+            "9": {"next": "NeedMorePrivacy"},
         },
-        "iconText": [
-            "A little",
-            "A lot",
-            "None"
-        ],
-        "iconColors": [
-            "fb-peach",
-            "fb-peach",
-            "fb-peach"
-        ],
+        "iconText": ["A little", "A lot", "None1"],
+        "iconColors": ["fb-peach", "fb-peach", "fb-peach"],
         "iconImages": [
             "images/icons/privacy/a_little.png",
             "images/icons/privacy/a_lot.png",
@@ -197,17 +145,10 @@ privacy = [
             },
             "10": {
                 "next": "whyMorePrivacyNeeded",
-            }
+            },
         },
-        "iconText": [
-            "No",
-            "Yes"
-        ],
-        "iconColors": [
-            "fb-peach",
-            "fb-peach",
-            "fb-peach"
-        ],
+        "iconText": ["No2", "Yes2"],
+        "iconColors": ["fb-peach", "fb-peach", "fb-peach"],
         "iconImages": [
             "images/icons/privacy/no.png",
             "images/icons/privacy/yes.png",
@@ -226,20 +167,10 @@ privacy = [
             "10": {
                 "next": "WhatIsIt",
             },
-            "9": {
-                "next": "NeedMorePrivacy"
-            }
+            "9": {"next": "NeedMorePrivacy"},
         },
-        "iconText": [
-            "Audio",
-            "Others",
-            "Visual"
-        ],
-        "iconColors": [
-            "fb-peach",
-            "fb-peach",
-            "fb-peach"
-        ],
+        "iconText": ["Audio", "Others2", "Visual"],
+        "iconColors": ["fb-peach", "fb-peach", "fb-peach"],
         "iconImages": [
             "images/icons/privacy/audio.png",
             "images/icons/privacy/others.png",
@@ -259,20 +190,10 @@ privacy = [
             "10": {
                 "next": "WhatIsIt",
             },
-            "9": {
-                "next": "NeedMorePrivacy"
-            }
+            "9": {"next": "NeedMorePrivacy"},
         },
-        "iconText": [
-            "Audio",
-            "Others",
-            "Visual"
-        ],
-        "iconColors": [
-            "fb-peach",
-            "fb-peach",
-            "fb-peach"
-        ],
+        "iconText": ["Audio", "Others1", "Visual"],
+        "iconColors": ["fb-peach", "fb-peach", "fb-peach"],
         "iconImages": [
             "images/icons/privacy/audio.png",
             "images/icons/privacy/others.png",
@@ -292,20 +213,10 @@ privacy = [
             "10": {
                 "next": "NeedMorePrivacy",
             },
-            "9": {
-                "next": "NeedMorePrivacy"
-            }
+            "9": {"next": "NeedMorePrivacy"},
         },
-        "iconText": [
-            "Thermal",
-            "Glare",
-            "Scent"
-        ],
-        "iconColors": [
-            "fb-peach",
-            "fb-peach",
-            "fb-peach"
-        ],
+        "iconText": ["Thermal", "Glare", "Scent"],
+        "iconColors": ["fb-peach", "fb-peach", "fb-peach"],
         "iconImages": [
             "images/icons/privacy/thermal.png",
             "images/icons/privacy/glare.png",
@@ -325,20 +236,10 @@ privacy = [
             "10": {
                 "next": "end",
             },
-            "9": {
-                "next": "end"
-            }
+            "9": {"next": "end"},
         },
-        "iconText": [
-            "See me",
-            "Both",
-            "Hear me"
-        ],
-        "iconColors": [
-            "fb-peach",
-            "fb-peach",
-            "fb-peach"
-        ],
+        "iconText": ["See me", "Both", "Hear me"],
+        "iconColors": ["fb-peach", "fb-peach", "fb-peach"],
         "iconImages": [
             "images/icons/privacy/seeme.png",
             "images/icons/privacy/both.png",
@@ -358,20 +259,10 @@ privacy = [
             "10": {
                 "next": "end",
             },
-            "9": {
-                "next": "end"
-            }
+            "9": {"next": "end"},
         },
-        "iconText": [
-            "Work",
-            "Behavior",
-            "Appearance"
-        ],
-        "iconColors": [
-            "fb-peach",
-            "fb-peach",
-            "fb-peach"
-        ],
+        "iconText": ["Work", "Behavior", "Appearance"],
+        "iconColors": ["fb-peach", "fb-peach", "fb-peach"],
         "iconImages": [
             "images/icons/privacy/work.png",
             "images/icons/privacy/behaviour.png",
